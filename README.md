@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AlejandroAvilaMX
+# 👋 Hi, I’m Alejandro Avila
 ### About me
 
 With experience working as software and web developer, lover of the new technologies and trying to continue growing professionally I am currently studying Bachelor of Science Honours in IT at CCT College in Dublin Ireland.
